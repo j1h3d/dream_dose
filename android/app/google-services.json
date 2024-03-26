@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "20346872818",
+    "firebase_url": "https://dreamdose-a900a-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "dreamdose-a900a",
+    "storage_bucket": "dreamdose-a900a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20346872818:android:91624e5446037ba3cb816b",
+        "android_client_info": {
+          "package_name": "com.example.dream_dose"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7TWztT0NQvwf76SRKQE218uARGse5O6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
